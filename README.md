@@ -1,5 +1,7 @@
 Curso de machine learning en la que iremos subiendo los siferentes ejercicios en carpetas por días
 En el *día 1* tenemos 3 Notebooks diferentes; Uno sobre cuestiones generales de python, otro sobre condicionales y un último sobre bucles
+
 En la carpeta del *día 2* encontramos nos adentramos en la biblioteca de pandas y encontraremos dos Notebooks diferentes; uno sobre pandas general y otrpo con un caso práctico sobre SpaceX
+
 En la carpeta del *día 3* empezamos a ver cosas relacionadas con el Machine learning; un archivo de introducción, una librería para ver predecir el precio del bitcoin y un último archivo en el que vemos la librería folium para mapas
 # Curso-Machine-Learning
