@@ -8,5 +8,7 @@ En la carpeta del *día 3* empezamos a ver cosas relacionadas con el Machine lea
 En la carpeta del *día 4* encontramos dos archivos sobre una práctica de Space X. En el primero indagamos sobre predicciones del tipo clasificación para saber si un cohete va a despegar o no usando 4 tippos diferentes de modelos predictivos. En el segundo encontramos un archivo en el que utilizamos la librería folium
 
 En la carpeta del *día 5* tenemos un ejercicio sobre cuestiones de Machine Learning para asentar conceptos
+
+En la carpeta del *día 6* tenemos dos archivos; uno sobre repaso de funciones en python y otro de introducción a las clases en python.
 # Curso-Machine-Learning
 
