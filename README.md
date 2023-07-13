@@ -13,5 +13,7 @@ En la carpeta del *día 5* tenemos un ejercicio sobre cuestiones de Machine Lear
 En la carpeta del *día 6* tenemos dos archivos; uno sobre repaso de funciones en python y otro de introducción a las clases en python.
 
 En la carpeta del *día 7* tenemos un archivo con una práctica sobre funciones anónimas, mapas y filtros.
+
+En la capeta del *día 8* encontramos 3 archivos, dos sobre teoría de la librería Apache Spark y otro sobre ejercicios relacionados con ello.
 # Curso-Machine-Learning
 
